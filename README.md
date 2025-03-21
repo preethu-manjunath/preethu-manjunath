@@ -1,4 +1,4 @@
-## 🚀 Welcome to My Data Science Playground!  
+## 🛠️ From Debugging Circuits to Decoding Data!  
 
 ### **Hi, I’m Preethu Nath Manjunath!**  
 🔹 **Data Scientist | AI/ML Enthusiast | NLP Explorer | Problem Solver**  
