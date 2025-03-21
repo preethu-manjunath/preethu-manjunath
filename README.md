@@ -12,7 +12,7 @@
 I started out dreaming of designing **wind turbines**, but somehow ended up **optimizing algorithms instead of circuits**.  
 And honestly? **Best accidental pivot ever.** 🎯  
 
-From **top professional services firms like Deloitte** to **fast-paced startups like KOBEYO**, my journey has been a wild ride—  
+From **top professional services firms like Deloitte** to **fast-paced startups like KOBEYO**, my journey has been a wild ride.  
 🚀 **Big data, even bigger ambitions, and an endless thirst for solving complex problems with AI.**  
 
 🌱 **Where It All Started**  
