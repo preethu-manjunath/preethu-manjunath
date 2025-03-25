@@ -32,10 +32,10 @@ Each twist and turn in my journey has reinforced my **obsession with AI**, and I
 
 ## 🔍 **Stuff I’ve Built (That I’m Super Proud Of)**  
 
-📌 [**ADHD Assistance App**](https://github.com/preethu-manjunath/ADHD-Assistance-App) – AI-powered mental health support 🧠  
-📌 [**Predictive Climate Analytics**](https://github.com/preethu-manjunath/Predictive-Climate-Analytics) – ML-driven climate forecasting 🌍  
-📌 [**AI Perpetrator Identification**](https://github.com/preethu-manjunath/AI-Powered-Perpetrator-Identification) – AI for crime analytics 🕵️‍♂️  
-📌 [**Phone Tracker**](https://github.com/preethu-manjunath/Phone-Tracker) – Real-time location tracking system 📍  
+📌 [**ADHD Assistance App**](https://github.com/preethu-manjunath/ADHD-Assistance-App) 🧠  
+📌 [**Predictive Climate Analytics**](https://github.com/preethu-manjunath/Predictive-Climate-Analytics) 🌍  
+📌 [**AI Perpetrator Identification**](https://github.com/preethu-manjunath/AI-Powered-Perpetrator-Identification)🕵️‍♂️  
+📌 [**Phone Tracker**](https://github.com/preethu-manjunath/Phone-Tracker) 📍  
 
 ---
 
